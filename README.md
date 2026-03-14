@@ -1,9 +1,3 @@
-
-
-** Excel analysis of 3,547 coffee shop transactions — uncovering a **68× revenue difference** between peak and slowest hour using PivotTables, heat maps and data storytelling. Built entirely on ** Microsoft Excel.**
-
----
-
 ## 📊 Dashboard Preview
 
 ![Coffee Shop Performance Dashboard](Dashboard_Image.png)
@@ -21,6 +15,7 @@
 ---
 
 ## 📌 Project Overview
+* Excel analysis of 3,547 coffee shop transactions — uncovering a **68× revenue difference** between peak and slowest hour using PivotTables, heat maps and data storytelling. Built entirely on ** Microsoft Excel.** 
 
 This project analyzes one year of coffee shop transaction data to answer key business questions:
 
