@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Performance Dashboard | What Hour Drives Revenue?
+
 
 > Excel analysis of 3,547 coffee shop transactions — uncovering a **68× revenue difference** between peak and slowest hour using PivotTables, heat maps and data storytelling. Built entirely on ** Microsoft Excel.**
 
